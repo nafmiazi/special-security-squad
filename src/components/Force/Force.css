@@ -1,0 +1,26 @@
+/* Icon style starts */
+.icon{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.i-3{
+    font-size: 23px;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    padding: 0;
+    color: white;
+    font-weight: 400;
+    border-radius: 50%;
+}
+
+.i-5{
+    color: #29D448;
+    font-size: 23px;
+}
+/* Icon style ends */
+
+/* Card style starts */
+.custom-card span{
+    color: black;
+}
+/* Card style ends */
